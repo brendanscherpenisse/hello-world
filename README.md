@@ -1,6 +1,8 @@
-# hello-world
-test respository
+# Git guide
 
-changes to test
-
-hello to you
+Workflow
+0. git pull
+1. git add [file name]
+2. git status
+3. git commit -m [message]
+4. git push origin [branch]
