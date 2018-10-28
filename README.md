@@ -6,3 +6,6 @@ Workflow
 2. git status
 3. git commit -m [message]
 4. git push origin [branch]
+
+Check remotes
+- git remote [-v]
