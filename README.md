@@ -9,3 +9,6 @@ Workflow
 
 Check remotes
 - git remote [-v]
+
+Switch branches
+- git checkout [branch]
