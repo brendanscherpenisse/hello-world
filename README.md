@@ -1,11 +1,11 @@
 # Git guide
 
 Workflow
-0. git pull
-1. git add [file name]
-2. git status
-3. git commit -m [message]
-4. git push origin [branch]
+1. (optional) git fetch [origin]
+2. git add [file name]
+3. git status
+4. git commit -m [message]
+5. git push [origin] [branch]
 
 Check remotes
 - git remote [-v]
