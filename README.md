@@ -10,5 +10,10 @@ Workflow
 Check remotes
 - git remote [-v]
 
-Switch branches
+Branches
+- git branch
 - git checkout [branch]
+
+
+<!-- Differene rebase and merge -->
+<!-- https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333 -->
